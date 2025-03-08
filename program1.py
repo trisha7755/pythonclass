@@ -1,2 +1,2 @@
-user_input=input(user_name="text",greetings="welcome")
-print(user_input)
+user_input=input("input_name:")
+print("Welcome:", user_input)
